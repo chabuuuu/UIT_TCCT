@@ -94,6 +94,10 @@ li $v0, 4
 la $a0, vt2    #In ]
 syscall
 
+
+
+
+
 mul $s5, $s5, 4
 la $t0, mangso
 add $t0, $t0, $s5
